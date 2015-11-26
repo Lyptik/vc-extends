@@ -3,7 +3,7 @@
 Plugin Name: Extend Visual Composer Plugin
 Plugin URI: http://adiardana.github.io/vc-extends
 Description: Extend Visual Composer with your own set of shortcodes.
-Version: 0.1.1
+Version: 1.0.0
 Author: adiardana
 Author URI: http://adiardana.github.io/
 License: GPLv2 or later
